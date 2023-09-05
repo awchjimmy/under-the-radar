@@ -18,3 +18,7 @@ Reverse Engineering Tutorials
 - [HideDebugger.zip](https://www.aldeid.com/wiki/OllyDbg/HideDebugger)
 
   This plugin employs a number of methods to hide OllyDbg from debugger detection.
+
+- [OllyDumpEx.zip](https://low-priority.appspot.com/ollydumpex/OllyDumpEx.zip)
+
+  This plugin is process memory dumper for OllyDbg and Immunity Debugger.
