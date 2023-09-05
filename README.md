@@ -13,3 +13,8 @@ Reverse Engineering Tutorials
 - [odbg110.zip](http://www.ollydbg.de/odbg110.zip)
 
   OllyDbg is a 32-bit assembler level analysing debugger for Microsoft Windows.
+
+### Plugins
+- [HideDebugger.zip](https://www.aldeid.com/wiki/OllyDbg/HideDebugger)
+
+  This plugin employs a number of methods to hide OllyDbg from debugger detection.
