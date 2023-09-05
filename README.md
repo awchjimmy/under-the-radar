@@ -14,6 +14,10 @@ Reverse Engineering Tutorials
 
   OllyDbg is a 32-bit assembler level analysing debugger for Microsoft Windows.
 
+- [lordpe.zip](https://www.softpedia.com/get/Programming/File-Editors/LordPE.shtml)
+
+  Comprehensive PE editor for expert users.
+
 ### Plugins
 - [HideDebugger.zip](https://www.aldeid.com/wiki/OllyDbg/HideDebugger)
 
