@@ -18,7 +18,7 @@ Reverse Engineering Tutorials
 
   Comprehensive PE editor for expert users.
 
-- [IDA free for Windows](https://out7.hex-rays.com/files/idafree83_windows.exe)
+- [idafree83_windows.exe](https://out7.hex-rays.com/files/idafree83_windows.exe)
 
   State-of-the-art binary code analysis tools.
 
