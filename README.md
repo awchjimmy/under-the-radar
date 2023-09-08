@@ -30,3 +30,8 @@ Reverse Engineering Tutorials
 - [OllyDumpEx.zip](https://low-priority.appspot.com/ollydumpex/OllyDumpEx.zip)
 
   This plugin is process memory dumper for OllyDbg and Immunity Debugger.
+
+### Scripts
+- [Aspr2.XX Unpacker 1.0SE.osc](https://github.com/re4lfl0w/lena_reversing/blob/master/snd-reversingwithlena-tutorials/snd-reversingwithlena-tutorial39.tutorial/files/Aspr2.XX%20Unpacker%201.0SE.osc)
+
+  This is the one that works.
