@@ -31,9 +31,9 @@ Reverse Engineering Tutorials
 
   This plugin is process memory dumper for OllyDbg and Immunity Debugger.
 
-- [OllyScript-0.94.zip](http://www.openrce.org/downloads/download_file/106)
+- [ODBGScript.1.82.rar](https://sourceforge.net/projects/odbgscript/)
 
-  OllyScript is a plugin in OllyDbg that enables to automatize some tasks via a script.
+  ODBGScript is a plugin in OllyDbg that enables to automatize some tasks via a script.
 
 ### Scripts
 - [Aspr2.XX Unpacker 1.0SE.osc](https://github.com/re4lfl0w/lena_reversing/blob/master/snd-reversingwithlena-tutorials/snd-reversingwithlena-tutorial39.tutorial/files/Aspr2.XX%20Unpacker%201.0SE.osc)
